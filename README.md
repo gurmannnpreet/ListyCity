@@ -1,2 +1,2 @@
-Name: Gurmanpreet Tiwana
-Javadocs are in apps/index.html
+* Name: `Gurmanpreet Tiwana`
+* Javadocs are in `apps/index.html`
